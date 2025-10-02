@@ -21,6 +21,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
 <table>
     <tr>
         <td>
+            <a href="https://qfeeds.com" target="_blank">Q-Feeds Threat Intelligence</a>
+        </td>
+        <td>
+            Q-Feeds is a cybersecurity company that brings together data from OSINT, proprietary research, and commercial threat intelligence feeds to offer a well-rounded and highly actionable solution. Their Threat Intelligence Portal (TIP) makes it easy for organizations to access and manage this data in real-time. By integrating with firewalls, SIEMs, and other security platforms, Q-Feeds helps businesses proactively block connections to known malicious IPs, domains, and URLs—before threats can do harm. They also have a community version available on request.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://feed.ellio.tech" target="_blank">ELLIO: IP Feed (community free version)</a>
         </td>
         <td>
