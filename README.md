@@ -1252,6 +1252,14 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
     </tr>
     <tr>
         <td>
+            <a href="https://cti-transmute.org/" target="_blank">CTI-Transmute</a>
+        </td>
+        <td>
+            CTI-Transmute is a tool for converting Cyber Threat Intelligence (CTI) data between MISP and STIX formats. It provides a set of API endpoints that allow automated conversion of data, making it easier to integrate different threat intelligence platforms and workflows. Source available on [GitHub](https://github.com/MISP/cti-transmute).
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://cybergordon.com/" target="_blank">CyberGordon</a>
         </td>
         <td>
